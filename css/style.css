@@ -239,6 +239,7 @@ nav {
 }
 
 .reason {
+  overflow-x: hidden;
   padding: 71px 0 65px 0;
 }
 
